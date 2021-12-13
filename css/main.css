@@ -511,3 +511,7 @@ dd {
    background-size:cover;
    background-position: center center;
 }
+
+.carousel-indicators{
+	display: none;
+}
