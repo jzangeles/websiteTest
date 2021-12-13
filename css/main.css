@@ -504,3 +504,10 @@ dd {
   background-color: #1585cf;
   opacity: .8;
 }
+
+/* Image slider ----------------------------------------------------- */
+.carousel-inner .item{ 
+   height:500px; 
+   background-size:cover;
+   background-position: center center;
+}
