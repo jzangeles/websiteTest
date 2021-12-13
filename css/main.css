@@ -512,6 +512,14 @@ dd {
    background-position: center center;
 }
 
-.carousel-indicators{
+.carousel-indicators-none{
 	display: none;
+}
+
+.modal-content {
+   width: 700px;
+  border:none;
+}
+.modal-body {
+   padding: 0;
 }
